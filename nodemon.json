@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "chillsone",
+    "MONGO_PASSWORD": "nokija.1313",
+    "MONGO_DATABASE": "GRAPHQL-DATABASE"
+  }
+}
